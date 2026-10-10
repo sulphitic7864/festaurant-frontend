@@ -1,0 +1,1 @@
+# Restaurant Landing Page 2 - React, Vite, TypeScript, Framer Motion, CSS Modules, Frontend Project
